@@ -18,4 +18,4 @@ This project generates working codes for generating codes for uploading selfies 
 ![image](https://github.com/user-attachments/assets/7326a1e3-73c1-479e-925f-14b79c3b4852)
 
 ## Pregenerated links
-Get some pre-generated codes here: https://github.com/TheFalloutOf76/space-selfie-code-generator/blob/main/working%20links.txt
+Get some pre-generated codes here: [working links.txt](/working%20links.txt)
