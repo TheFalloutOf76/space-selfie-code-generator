@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@opensrc/deno-open": "jsr:@opensrc/deno-open@^1.0.0"
+  }
+}
